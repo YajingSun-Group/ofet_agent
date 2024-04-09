@@ -81,7 +81,7 @@ python 1_train_models.py
 
 You can try our model in [Online-Demo site](https://ofet-v1.streamlit.app/). It requires an OpenAI key (For more information, visit the OpenAI site). In online demo, information extractor, performance predictor and lab advisor are available.
 
-![demo](\demo.jpg)
+<img src="\demo.jpg" alt="demo" style="zoom: 25%;" />
 
 
 
