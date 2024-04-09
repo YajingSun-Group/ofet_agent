@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 For **3_Other_tools**:
 
-For DECIMER, please read the [official latest reponsity](https://github.com/Kohulan/DECIMER-Image-Segmentation).
+For DECIMER, please read the [official latest reponsitory](https://github.com/Kohulan/DECIMER-Image-Segmentation).
 
 ### Getting started
 
