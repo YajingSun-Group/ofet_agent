@@ -50,8 +50,6 @@ pip install -r requirements.txt
 
 For **3_Other_tools**:
 
-For journal_information_extractor, you can just install the 
-
 For DECIMER, please read the [official latest reponsity](https://github.com/Kohulan/DECIMER-Image-Segmentation).
 
 ### Getting started
@@ -73,7 +71,7 @@ For 1_ML_models:
 ```
 cd 1_ML_models
 
-python 0_make_dataset.py
+python 0_make_dataset.py (optional, you can reproduce the accuracy of the model in the paper by just running 1_train_models.py)
 python 1_train_models.py
 ```
 
