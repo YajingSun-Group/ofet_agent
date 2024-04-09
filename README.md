@@ -21,7 +21,7 @@ conda create -n ofet_agent python=3.10
 ## Online Demo
 
 You can try our model in [Online-Demo site](https://ofet-v1.streamlit.app/). It requires an OpenAI key (For more information, visit the OpenAI site). In online demo, inforation extractor, performance predictor and lab advisor are avaliable.
-
+<img src="\demo.jpg" alt="Fig1" style="zoom: 25%;" />
 
 ## 
 
