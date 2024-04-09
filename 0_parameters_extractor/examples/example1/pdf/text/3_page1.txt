@@ -1,0 +1,104 @@
+Cite This: J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Article
+
+pubs.acs.org/JACS
+
+†,§
+
+Chuandong Dou,*,†
+
+Quadruply B←N-Fused Dibenzo-azaacene with High Electron
+Aﬃnity and High Electron Mobility
+Yang Min,
+†
+State Key Laboratory of Polymer Physics and Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences,
+Changchun 130022, P.R. China
+‡
+Beijing National Laboratory for Molecular Science, Key Laboratory of Organic Solids, Institute of Chemistry, Chinese Academy of
+Sciences, Beijing 100190, P.R. China
+§
+University of Chinese Academy of Sciences, Beijing 100049, P.R. China
+*S Supporting Information
+
+Huanli Dong,*,‡
+
+and Jun Liu*,†
+
+Dan Liu,
+
+‡,§
+
+ABSTRACT: For many years, organoboron compounds have
+been expected to show excellent electron-injecting and -trans-
+lowest unoccupied molecular
+porting properties. However,
+orbital (LUMO) energy levels (ELUMO) of B-containing π-
+conjugated molecules are mostly higher than −4.0 eV and their
+electron mobilities are usually less than 10−2 cm2 V−1 s−1. In this
+work, we experimentally prove the remarkably high electron
+aﬃnity and high electron mobility of organoboron compounds.
+to incorporate multiple boron−nitrogen
+Our
+coordination bonds (B←N) into azaacenes. We synthesized
+quadruply B←N-fused dibenzo-azaacene (QBNA) through one-
+pot multifold borylation cyclization reaction. The incorporation of four B←N units greatly changes the electronic structures and
+properties and signiﬁcantly downshifts the electronic energy levels of QBNA. QBNA shows a ELUMO of as low as −4.58 eV,
+which is among the lowest for n-type organic semiconductors. Single-crystal organic ﬁeld-eﬀect transistors of QBNA display
+unipolar n-type characteristic with an electron mobility of up to 1.60 cm2 V−1 s−1 together with excellent ambient stability. This
+study thus provides a design strategy for high-performance n-type organic semiconductors and high electron-aﬃnity π-systems
+based on organoboron chemistry.
+
+strategy is
+
+■ INTRODUCTION
+
+A fundamental characteristic of π-electron systems and π-
+conjugated materials is electron aﬃnity.1 High electron aﬃnity,
+which is generally characterized by low-lying LUMO energy
+leads to various intriguing properties of π-
+level (ELUMO),
+systems, such as easy electron injection, stable electron
+transport, strong electron acceptor, and facilitated n-type
+doping.2 Therefore, π-systems with high electron aﬃnity have
+drawn much attention in both synthetic chemistry and organic
+electronic materials. The general strategy to design molecules
+with high electron aﬃnity is to incorporate the electron-
+withdrawing units, such as imide unit, halogen atoms (Cl and
+F), cyano group, and sp2-hybridized N atom (Figure 1a).3
+However, as π-systems are intrinsically electron-rich,
+is
+challenging to develop π-conjugated molecules with extremely
+high electron aﬃnity (low ELUMO).
+
+A particular application of π-conjugated molecules with high
+electron aﬃnity is as n-type semiconductors in organic ﬁeld-
+eﬀect transistors (OFETs).4 High electron aﬃnity of n-type
+organic semiconductors (ELUMO < ca. −4.0 eV) can enable
+eﬃcient electron injection and good ambient stability of
+OFETs. Integrating multiple electron-withdrawing units onto
+large π-frameworks has been proved to be eﬃcient to produce
+high-performance n-type organic semiconductors.5 However, it
+
+it
+
+Figure 1. (a) Examples of molecular segments with high electron
+aﬃnity, which are based on imide unit, halogen atoms, cyano group,
+sp2-hybridized N atom, and B←N unit. (b) Chemical structure of
+quadruply B←N-fused dibenzo-azaacene (QBNA).
+
+is very diﬃcult to design and synthesize them. Only a few n-
+type organic semiconductors with high electron mobilities (μ
+e)
+and good stability have been developed, such as aromatic
+diimides, tetraazapentacenes, benzodifurandione-based oligo-
+
+Received: September 6, 2019
+Published: October 2, 2019
+
+© 2019 American Chemical Society
+
+17015
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021

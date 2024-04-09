@@ -1,0 +1,604 @@
+Cite This: J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Article
+
+pubs.acs.org/JACS
+
+†,§
+
+Chuandong Dou,*,†
+
+Quadruply B←N-Fused Dibenzo-azaacene with High Electron
+Aﬃnity and High Electron Mobility
+Yang Min,
+†
+State Key Laboratory of Polymer Physics and Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences,
+Changchun 130022, P.R. China
+‡
+Beijing National Laboratory for Molecular Science, Key Laboratory of Organic Solids, Institute of Chemistry, Chinese Academy of
+Sciences, Beijing 100190, P.R. China
+§
+University of Chinese Academy of Sciences, Beijing 100049, P.R. China
+*S Supporting Information
+
+Huanli Dong,*,‡
+
+and Jun Liu*,†
+
+Dan Liu,
+
+‡,§
+
+ABSTRACT: For many years, organoboron compounds have
+been expected to show excellent electron-injecting and -trans-
+lowest unoccupied molecular
+porting properties. However,
+orbital (LUMO) energy levels (ELUMO) of B-containing π-
+conjugated molecules are mostly higher than −4.0 eV and their
+electron mobilities are usually less than 10−2 cm2 V−1 s−1. In this
+work, we experimentally prove the remarkably high electron
+aﬃnity and high electron mobility of organoboron compounds.
+to incorporate multiple boron−nitrogen
+Our
+coordination bonds (B←N) into azaacenes. We synthesized
+quadruply B←N-fused dibenzo-azaacene (QBNA) through one-
+pot multifold borylation cyclization reaction. The incorporation of four B←N units greatly changes the electronic structures and
+properties and signiﬁcantly downshifts the electronic energy levels of QBNA. QBNA shows a ELUMO of as low as −4.58 eV,
+which is among the lowest for n-type organic semiconductors. Single-crystal organic ﬁeld-eﬀect transistors of QBNA display
+unipolar n-type characteristic with an electron mobility of up to 1.60 cm2 V−1 s−1 together with excellent ambient stability. This
+study thus provides a design strategy for high-performance n-type organic semiconductors and high electron-aﬃnity π-systems
+based on organoboron chemistry.
+
+strategy is
+
+■ INTRODUCTION
+
+A fundamental characteristic of π-electron systems and π-
+conjugated materials is electron aﬃnity.1 High electron aﬃnity,
+which is generally characterized by low-lying LUMO energy
+leads to various intriguing properties of π-
+level (ELUMO),
+systems, such as easy electron injection, stable electron
+transport, strong electron acceptor, and facilitated n-type
+doping.2 Therefore, π-systems with high electron aﬃnity have
+drawn much attention in both synthetic chemistry and organic
+electronic materials. The general strategy to design molecules
+with high electron aﬃnity is to incorporate the electron-
+withdrawing units, such as imide unit, halogen atoms (Cl and
+F), cyano group, and sp2-hybridized N atom (Figure 1a).3
+However, as π-systems are intrinsically electron-rich,
+is
+challenging to develop π-conjugated molecules with extremely
+high electron aﬃnity (low ELUMO).
+
+A particular application of π-conjugated molecules with high
+electron aﬃnity is as n-type semiconductors in organic ﬁeld-
+eﬀect transistors (OFETs).4 High electron aﬃnity of n-type
+organic semiconductors (ELUMO < ca. −4.0 eV) can enable
+eﬃcient electron injection and good ambient stability of
+OFETs. Integrating multiple electron-withdrawing units onto
+large π-frameworks has been proved to be eﬃcient to produce
+high-performance n-type organic semiconductors.5 However, it
+
+it
+
+Figure 1. (a) Examples of molecular segments with high electron
+aﬃnity, which are based on imide unit, halogen atoms, cyano group,
+sp2-hybridized N atom, and B←N unit. (b) Chemical structure of
+quadruply B←N-fused dibenzo-azaacene (QBNA).
+
+is very diﬃcult to design and synthesize them. Only a few n-
+type organic semiconductors with high electron mobilities (μ
+e)
+and good stability have been developed, such as aromatic
+diimides, tetraazapentacenes, benzodifurandione-based oligo-
+
+Received: September 6, 2019
+Published: October 2, 2019
+
+© 2019 American Chemical Society
+
+17015
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+a
+Scheme 1. Synthesis of 5a and 5b
+
+Article
+
+a3a−5a: Six linearly annelated rings. 3b−5b: Eight linearly annelated rings.
+
+(p-phenylenevinylene), and cyano-containing quinoidal ter-
+thiophenes, as well as their derivatives, etc.6 New n-type
+organic semiconductors with excellent OFET device perform-
+ance thus remain important and attractive.
+
+Boron atom has one less electron than carbon atom and has
+a typical empty p-orbital. This feature characterizes boron
+species as electron-deﬁcient scaﬀolds that can induce intriguing
+optoelectronic properties of organoboron compounds,7 such as
+two-photon absorption, near-infrared light absorption, ther-
+mally activated delayed ﬂuorescence, etc.8 For many years,
+incorporating B atoms into π-systems is expected to be an
+eﬀective approach to accomplish high electron aﬃnity and high
+electron mobility.7,9 However, B-containing π-conjugated
+molecules seldom show adequately high electron aﬃnity and
+their ELUMO are usually higher than −4.0 eV. B-containing π-
+conjugated molecules also display unsatisfactory electron-
+transporting properties. Their electron mobilities are usually
+less than 10−2 cm2 V−1 s−1.10 Boron species can coordinate
+with N-heteroaromatic rings to form boron−nitrogen coordi-
+nation bond (B←N), which has led to various organic
+semiconductors and light-emitting materials.11 Very recently,
+we developed a dibenzo-azaacene containing two B←N units,
+which shows a low-lying ELUMO of −3.87 eV and a decent
+electron mobility of 0.21 cm2 V−1 s−1.12 This study thus
+convinces us that B←N unit is a promising candidate to design
+π-conjugated molecules with high electron aﬃnity and high
+electron mobility (Figure 1a).
+
+In this work, we experimentally prove the remarkably high
+electron aﬃnity and high electron mobility of organoboron
+compounds. This is realized by incorporating multiple B←N
+units into azaacene to design quadruply B←N-fused dibenzo-
+four B←N units
+azaacene (QBNA). The incorporation of
+greatly changes the electronic structures and properties and
+signiﬁcantly downshifts the electronic energy levels of QBNA.
+QBNA shows an ultralow ELUMO of −4.58 eV, which is among
+the lowest for n-type organic semiconductors. The single-
+crystal OFET (SC-OFET) devices based on QBNA display
+unipolar n-type characteristic with an electron mobility of up
+to 1.60 cm2 V−1 s−1 and excellent ambient stability. To the best
+of our best knowledge, this is the ﬁrst organoboron molecule
+with electron mobility higher than 1 cm2 V−1 s−1.
+
+■ RESULTS AND DISCUSSION
+
+Our synthetic strategy of the B←N-containing polyarenes is to
+perform a one-pot multifold borylation cyclization on the tetra-
+alkylaminated dibenzo-azaacenes. Scheme 1 illustrates the
+synthetic route of QBNA (5b) and its analog 5a, which have
+eight and six linearly annelated rings, respectively. In the ﬁrst
+step, oxidization of 1,3,6,8-tetrabromopyrene 1 using the
+conventional oxidization conditions
+for pyrene and its
+derivatives could lead only to the partially oxidized products.13
+·xH2O as the
+So we improved the condition with NaIO4/RuCl3
+oxidant system and CH3CN/H2O as the solvent at a high
+reaction temperature of 120 °C, successfully producing the
+fully oxidized compound 2 in 58% yield. Condensation of 2
+with benzene-1,2-diamine/naphthalene-2,3-diamine and then
+alkylamination of 3a/3b produced the key precursors 4a/4b,
+respectively. The moderate yields of the alkylamination step
+are due to the low solubility of 3a/3b. Finally, the borylation
+·Et2O/Et3N aﬀorded 5a/5b in good
+reaction of 4a/4b with BF3
+yields, and in this step four B←N-fused six-membered rings are
+these B←N-containing
+simultaneously formed. Notably,
+polyarenes 5a and 5b are stable enough to be puriﬁed by
+silica gel column chromatography. They also show excellent
+light and oxygen stability as determined by the repeated
+photophysical measurements under ambient conditions in
+which no spectral change is observed. In addition, 5a and 5b
+are both well soluble in common organic solvents, such as
+chloroform, toluene, and tetrahydrofuran.
+
+The structures of 5a and 5b were unambiguously conﬁrmed
+by various NMR spectroscopies, high-resolution mass spec-
+trometry, and elemental analysis (see Supporting Information).
+The 11B NMR spectra exhibit only one signal at ca. 2.3 ppm
+(Figure S1). This is consistent with those for the organoboron
+compounds with boron atoms linked to two ﬂuorines and two
+the four B←N units on the
+nitrogens and suggests that
+frameworks exist in the same manner.14 In the 1H NMR
+spectrum of 5b, four diﬀerent signals observed in the aromatic
+region reveal its 4-fold symmetric structure in solution. To
+assign Ha, Hb, and Hc
+in the backbone of 5b, we also
+performed the 1H−1H COSY and 1D NOE measurements. In
+the 1H−1H COSY spectrum (Figure 2a),
+the correlation
+between Ha and Hb and no correlation of Hc (δ = 9.58 ppm,
+singlet) with others reveal that Hc is the proton adjacent to the
+B←N-linked ring. Two correlative signals in the 1D NOE
+
+17016
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+Article
+
+Figure 4 shows the absorption spectra of 5a and 5b in
+abs) at 745/
+
+toluene. 5a shows two main absorption peaks (λ
+
+Figure 2. (a) 1H−1H COSY and (b) 1D NOE spectra of 5b.
+
+spectrum can assign Hb (δ = 8.16 ppm) to the proton close to
+Hc (Figure 2b).15
+
+To gain insight into the conﬁgurations of 5a and 5b, we
+performed structural optimizations on the model compounds
+with methyl groups (5a-Me and 5b-Me) using density
+functional theory (DFT) calculations (B3LYP/6-31G(d,p)).
+As shown in Figure 3 and Figure S4, 5a-Me and 5b-Me both
+
+Figure 3. Optimized structure of 5b-Me calculated at the B3LYP/6-
+31G(d,p) level.
+
+adopt curved conﬁgurations along the azaacene skeletons with
+the dihedral angles of 23.4° and 25.4°, respectively. These
+curved conﬁgurations are in stark contrast
+to the planar
+conﬁgurations of the previously reported dibenzo-azaacenes
+containing two B←N units.12 This is attributed to the
+incorporation of multiple B←N units in 5a and 5b, which
+results in large fused-ring strain of B←N-heterocycles and thus
+distorts the whole π-skeleton for strain relaxation. It is notable
+that this curved structure has no negative eﬀects on molecular
+crystallinity. 5b displays excellent crystallinity, which is
+beneﬁcial
+for electron transport (vide infra). Recently,
+nonplanar polycyclic aromatic hydrocarbons (PAHs) have
+attracted great attention of synthesis chemists.16 The general
+approach to design nonplanar PAH molecules is to incorporate
+non-six-membered rings or steric hindrance into π-skeletons.
+reports,17 the
+Inspired by this study and other
+incorporation of B←N-containing six-membered cycles should
+be a new approach toward nonplanar PAHs.
+
+recent
+
+Figure 4. Absorption spectra of 5a and 5b in toluene. Insets are the
+photographs.
+
+685 nm and a detectable weak band at 800 nm. 5b exhibits two
+strong peaks at 783/712 nm and one weak band at 880 nm
+(Table 1 and Figure S5). Compared to that of 5a,
+the
+absorption spectrum of 5b is red-shifted by ca. 40 nm because
+of its extended π-conjugation. Electron-deﬁcient polyarenes
+with large π-skeletons mostly exhibit the absorption maxima in
+the visible region. For example, a C64 nanographene containing
+four imides reported by Würthner and co-workers shows the
+λ
+abs of 584 nm.18a A N-doped graphene nanoribbon with 7.7
+nm in length reported by Mateo-Alonso and co-workers
+exhibits the λ
+abs of 605 nm.18b In contrast, 5a and 5b
+containing four B←N units show the absorption peaks in the
+near-infrared (NIR) region. Moreover, the molar absorption
+coeﬃcients of 5a and 5b are both as high as exceeding 1 × 105
+M−1 cm−1. The toluene solutions of 5a and 5b exhibit the
+green and yellowish green colors, respectively.
+
+To elucidate these characteristic absorption bands, we
+conducted time-dependent DFT (TD-DFT) calculations on
+5a-Me and 5b-Me at
+the B3LYP/6-31G(d,p) level (see
+Supporting Information). The calculation results are shown
+in Figure 5. For 5a, while the weak absorption band at around
+
+Figure 5. Selected Kohn−Sham molecular orbitals and energy
+diagrams of 5a-Me and 5b-Me calculated at the B3LYP/6-31G(d,p)
+level. Excitation energies and oscillator strengths were computed by
+TD-DFT at the same level.
+
+17017
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+Article
+
+Table 1. Summary of Optoelectronic Properties and Energy Levels of 5a and 5b
+
+a [M−1 cm−1]
+1.07 × 105
+1.31 × 105
+
+λ
+abs
+
+a [nm]
+
+ε
+
+max
+
+opt b [eV]
+Eg
+
+ox c [V]
+Epa
+
+ELUMO
+
+d [eV]
+
+EHOMO
+
+d [eV]
+
+e [eV]
+
+Eg
+
+5a
+5b
+
+745/685
+783/712
+
+−4.45
+−5.94
+1.57
+−4.58
+−5.95
+1.51
+aIn toluene solution (1 × 10−5 M). bOptical energy gaps calculated according to the equation Eg
+onset eV. cHalf-reduction potentials and
+anodic peak potentials (vs Fc/Fc+) measured in CH2Cl2 at a scan rate of 50 mV s−1. dEstimated according to the equations ELUMO/EHOMO =
+−(4.80 + E1/2
+
+ox) eV. eElectrochemical gaps calculated according to the equation Eg = (Epa
+
++1.14
++1.15
+opt = 1240/λ
+
+ox − E1/2
+
+red1) eV.
+
+red1/Epa
+
+1.49
+1.37
+
+red1 c [V]
+E1/2
+−0.35
+−0.22
+
+red2 c [V]
+E1/2
+−0.90
+−0.70
+
+red3 c [V]
+E1/2
+−2.10
+−1.94
+
+800 nm is assigned to the electronic transition of HOMO-1 →
+LUMO, the maximum absorption band at 600−800 nm is
+assigned to the HOMO → LUMO and HOMO-3 → LUMO
++2 transitions. For 5b, the weak absorption band at ca. 880 nm
+is attributed to the HOMO-4 → LUMO and HOMO-2 →
+LUMO transitions and the maximum absorption band is
+assigned to the HOMO-1 → LUMO transition. The
+absorption properties of 5a and 5b are well reproduced by
+the TD-DFT calculations. Accordingly, the weak absorption
+bands in the long-wavelength region of 5a and 5b are both
+attributed to the intramolecular charge transfer (ICT)
+transitions within π-frameworks accompanying small oscillator
+strengths (Figures S8 and S9). In addition, the absorption
+bands of 5a and 5b all involve their LUMOs. The LUMOs of
+5a and 5b both are localized on the linear azaacene skeletons
+and the LUMO energy levels are very low (ca. −4.0 eV). These
+characteristics are totally diﬀerent from those of the all-carbon
+analogous compounds (Figure S10). It is suggested that the
+four B←N units greatly perturb the electronic structures of π-
+skeletons, thus contributing to the NIR absorption properties
+of 5a and 5b.
+
+To evaluate their electron aﬃnity, we performed cyclic
+voltammetry measurements on 5a and 5b in CH2Cl2 using n-
+Bu4NClO4 (0.1 M) as supporting electrolyte. As shown in
+Figure 6, both of them exhibit three well-deﬁned reversible
+
+Figure 6. Cyclic voltammograms of 5a and 5b in CH2Cl2 (0.4 mM).
+Fc/Fc+ = ferrocene/ferrocenium.
+
+the
+reduction processes, suggesting excellent stabilities of
+generated radical anion intermediates. The half-reduction
+red ) are −0.35/−0.90/−2.10 V for 5a and
+potentials (E1/2
+−0.22/−0.70/−1.94 V for 5b (Table 1), respectively (vs Fc/
+Fc+). Irreversible oxidation processes are observed with the
+ox) of +1.14 V for 5a and +1.15 V for
+anodic peak potential (Epa
+their ﬁrst
+5b. On the basis of
+reduction and oxidation
+potentials, we estimated the LUMO and HOMO levels of 5a
+and 5b. The ELUMO and EHOMO are −4.45/−5.94 eV for 5a and
+−4.58/−5.95 eV for 5b, respectively. The ultralow ELUMO of 5a
+and 5b experimentally prove their extremely high electron
+aﬃnity. The variations in energy levels from 5a to 5b are fully
+consistent with the theoretical calculation results (Figure S11).
+Low ELUMO is necessary for eﬃcient electron injection and
+transport of n-type organic semiconductors in OFETs.4,5 The
+
+extremely low ELUMO of ca. −4.5 eV of 5a and 5b are rarely
+achieved for B-containing π-systems. Only a few organoboron
+compounds show very low ELUMO, which are mostly based on
+boron-dipyrromethene (BPDIPY), such as quinodimethane
+bridged BODIPY dimers and BF 2-containing bis-
+(pyrrolopyrrole) cyanines.19 Compared to the reported
+dibenzo-azaacenes containing two B←N units, 5a and 5b
+containing four B←N units exhibit the lower ELUMO by ca. 0.7
+eV.12 The extra two B←N units further lead to the large
+downshifts of the ELUMO of π-systems. Moreover, the ELUMO of
+5a and 5b are among the lowest for the reported high-
+performance n-type organic semiconductors (Figure S13).5
+Therefore, the incorporation of multiple B←N units is an
+eﬃcient strategy to signiﬁcantly enhance electron aﬃnity of the
+π-system.
+
+Another interesting aspect is the crystalline property of 5b.
+these B←N-
+In our attempt
+to grow single crystals of
+containing polyarenes in solution for X-ray structural analysis,
+we could obtain some micrometer-sized wires of 5b. On the
+basis of this phenomenon, we prepared the microstructures of
+5b on the substrate via a solvent evaporation method. The
+solution of 5b in toluene (1 mg/mL) was drop-casted on the
+octadecyltrichlorosilane (OTS)-treated SiO2/Si substrate in a
+sealed Petri dish. After evaporation of
+the solvent, some
+microstructures appeared on the substrate. The polarized
+optical microscopy (POM) images in Figure 7a show that
+microwires with the length of around 20 μm are formed. When
+the substrate is rotated by 45°, these microwires exhibit the
+obvious color change from bright to dark,
+indicating the
+crystalline character of 5b. As shown in Figure 7b, the atomic
+force microscopy (AFM) image of a typical microwire reveals a
+smooth surface with the thickness of around 36 nm.
+Transmission electron microscopy (TEM) and selected-area
+electron diﬀraction (SAED) were used to further assess the
+crystalline property of 5b. As shown in Figure 7c, the bright
+and well-deﬁned diﬀractions as well as no change of the SAED
+patterns at diﬀerent regions of an individual microwire prove
+the single-crystal nature of the whole wire, demonstrating the
+good crystallinity of 5b. According to the SAED diﬀraction
+patterns, a repeating unit of 7.2 Å along the crystal growth
+direction is observed. This value is much smaller than that of
+the molecular width and length, indicating that the molecular
+packing orientation of 5b is probably along the crystal growth
+direction. The good crystallinity of 5b may be correlated to its
+large π-framework without any steric hindrance at
+the
+periphery.
+
+To investigate the electron-transporting properties of these
+B←N-containing polyarenes, we fabricated the OFET devices
+based on the single-crystal microwires of 5b. The SC-OFET
+devices with a bottom-gate/top-contact (BG/TC) conﬁgu-
+ration were fabricated using the “organic ribbon mask”
+method.20 Gold source and drain electrodes were deposited
+on an individual microwire via thermal evaporation (Figure
+7d). The optical microscopy image of one typical device is
+
+17018
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+Article
+
+Figure 7. (a) Polarized optical microscopy images of the single-crystal microwires with rotations of 0° and 45°. (b) AFM image with the thickness
+analysis and (c) SAED pattern with a TEM image of a typical single-crystal microwire. (d) Schematic device structure of the BG/TC SC-OFETs.
+(e) Transfer curves of the SC-OFET device based on 5b with its optical microscopy image. (f) Stability of the SC-OFET device in air at room
+temperature.
+
+shown in the inset of Figure 7e. The transfer and output
+characteristics of
+the device measured under ambient
+conditions are provided in Figure 7e and Figure S15. The
+SC-OFET device exhibits the unipolar n-type behavior. A
+highest electron mobility of 1.60 cm2 V−1 s−1 (average of 20
+devices: 1.03 ± 0.21 cm2 V−1 s−1) with an on/oﬀ current ratio
+of 105−106 and a threshold voltage of 14 V was obtained
+(Figure S16). Furthermore, the excellent ambient stability of
+the SC-OFET device of 5b was demonstrated. Figure 7f shows
+the typical curves of performance versus storage time. Less
+than 5% degradation in electron mobility was observed after
+storing the device in air for 10 days. Therefore, the electron-
+transporting properties of 5b are greatly improved in
+comparison to those of
+the reported dibenzo-azaacene
+containing two B←N units. It is ascribed to the signiﬁcantly
+enhanced electron aﬃnity and good crystallinity of 5b, which
+facilitate electron injection and transport and improve air
+stability. To the best of our knowledge, this is the ﬁrst time
+that electron mobility higher than 1 cm2 V−1 s−1 was obtained
+for organoboron compounds. B←N-containing polyarenes
+thus represent a new kind of high-performance n-type organic
+semiconductors.
+
+■ CONCLUSIONS
+
+In conclusion, we have synthesized two π-conjugated
+polyarenes incorporated with four B←N units through one-
+pot multifold borylation cyclization reaction. The incorpo-
+ration of multiple B←N units signiﬁcantly impacts their
+electronic structures and properties. QBNA has a LUMO
+energy level as low as −4.58 eV, illustrating its remarkably high
+electron aﬃnity. Moreover, QBNA shows good crystallinity
+despite its curved conﬁguration. The SC-OFET devices based
+on QBNA display unipolar n-type behavior with an electron
+mobility of 1.60 cm2 V−1 s−1 and excellent ambient stability.
+This study thus experimentally proves the high electron aﬃnity
+and high electron mobility of organoboron compounds.
+Furthermore, this study provides a design strategy for π-
+systems with high electron aﬃnity based on organoboron
+
+chemistry, which can be applied to the construction of other
+electronic materials.
+
+■ ASSOCIATED CONTENT
+
+*S Supporting Information
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/jacs.9b09640.
+
+Experimental details, thermal and photophysical proper-
+ties, and theoretical calculations of 5a and 5b, as well as
+the SC-OFET device fabrications and characterizations
+of 5b (PDF)
+
+■ AUTHOR INFORMATION
+
+Corresponding Authors
+*chuandong.dou@ciac.ac.cn
+*dhl522@iccas.ac.cn
+*liujun@ciac.ac.cn
+ORCID
+Huanli Dong: 0000-0002-5698-5369
+Jun Liu: 0000-0003-1487-0069
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the National Natural Science
+Foundation of China (Nos. 21822507, 21625403, and
+51725304) and National Key Research and Development
+Program of China (No. 2018YFE0100600) founded by
+MOST. C.D. also thanks Youth Innovation Promotion
+Association of Chinese Academy of Sciences (No. 2017265)
+and State Key Laboratory of Supramolecular Structure and
+Materials in Jilin University (No. sklssm201905).
+
+■ REFERENCES
+
+(1) (a) Batley, M.; Lyons, L. E. Electron Affinities of Organic
+Molecules. Nature 1962, 196, 573−574. (b) Pritchard, H. O. The
+Determination of Electron Affinities. Chem. Rev. 1953, 52, 529−563.
+
+17019
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021

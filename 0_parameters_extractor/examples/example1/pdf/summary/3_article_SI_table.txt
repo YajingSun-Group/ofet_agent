@@ -1,0 +1,1815 @@
+Cite This: J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Article
+
+pubs.acs.org/JACS
+
+†,§
+
+Chuandong Dou,*,†
+
+Quadruply B←N-Fused Dibenzo-azaacene with High Electron
+Aﬃnity and High Electron Mobility
+Yang Min,
+†
+State Key Laboratory of Polymer Physics and Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences,
+Changchun 130022, P.R. China
+‡
+Beijing National Laboratory for Molecular Science, Key Laboratory of Organic Solids, Institute of Chemistry, Chinese Academy of
+Sciences, Beijing 100190, P.R. China
+§
+University of Chinese Academy of Sciences, Beijing 100049, P.R. China
+*S Supporting Information
+
+Huanli Dong,*,‡
+
+and Jun Liu*,†
+
+Dan Liu,
+
+‡,§
+
+ABSTRACT: For many years, organoboron compounds have
+been expected to show excellent electron-injecting and -trans-
+lowest unoccupied molecular
+porting properties. However,
+orbital (LUMO) energy levels (ELUMO) of B-containing π-
+conjugated molecules are mostly higher than −4.0 eV and their
+electron mobilities are usually less than 10−2 cm2 V−1 s−1. In this
+work, we experimentally prove the remarkably high electron
+aﬃnity and high electron mobility of organoboron compounds.
+to incorporate multiple boron−nitrogen
+Our
+coordination bonds (B←N) into azaacenes. We synthesized
+quadruply B←N-fused dibenzo-azaacene (QBNA) through one-
+pot multifold borylation cyclization reaction. The incorporation of four B←N units greatly changes the electronic structures and
+properties and signiﬁcantly downshifts the electronic energy levels of QBNA. QBNA shows a ELUMO of as low as −4.58 eV,
+which is among the lowest for n-type organic semiconductors. Single-crystal organic ﬁeld-eﬀect transistors of QBNA display
+unipolar n-type characteristic with an electron mobility of up to 1.60 cm2 V−1 s−1 together with excellent ambient stability. This
+study thus provides a design strategy for high-performance n-type organic semiconductors and high electron-aﬃnity π-systems
+based on organoboron chemistry.
+
+strategy is
+
+■ INTRODUCTION
+
+A fundamental characteristic of π-electron systems and π-
+conjugated materials is electron aﬃnity.1 High electron aﬃnity,
+which is generally characterized by low-lying LUMO energy
+leads to various intriguing properties of π-
+level (ELUMO),
+systems, such as easy electron injection, stable electron
+transport, strong electron acceptor, and facilitated n-type
+doping.2 Therefore, π-systems with high electron aﬃnity have
+drawn much attention in both synthetic chemistry and organic
+electronic materials. The general strategy to design molecules
+with high electron aﬃnity is to incorporate the electron-
+withdrawing units, such as imide unit, halogen atoms (Cl and
+F), cyano group, and sp2-hybridized N atom (Figure 1a).3
+However, as π-systems are intrinsically electron-rich,
+is
+challenging to develop π-conjugated molecules with extremely
+high electron aﬃnity (low ELUMO).
+
+A particular application of π-conjugated molecules with high
+electron aﬃnity is as n-type semiconductors in organic ﬁeld-
+eﬀect transistors (OFETs).4 High electron aﬃnity of n-type
+organic semiconductors (ELUMO < ca. −4.0 eV) can enable
+eﬃcient electron injection and good ambient stability of
+OFETs. Integrating multiple electron-withdrawing units onto
+large π-frameworks has been proved to be eﬃcient to produce
+high-performance n-type organic semiconductors.5 However, it
+
+it
+
+Figure 1. (a) Examples of molecular segments with high electron
+aﬃnity, which are based on imide unit, halogen atoms, cyano group,
+sp2-hybridized N atom, and B←N unit. (b) Chemical structure of
+quadruply B←N-fused dibenzo-azaacene (QBNA).
+
+is very diﬃcult to design and synthesize them. Only a few n-
+type organic semiconductors with high electron mobilities (μ
+e)
+and good stability have been developed, such as aromatic
+diimides, tetraazapentacenes, benzodifurandione-based oligo-
+
+Received: September 6, 2019
+Published: October 2, 2019
+
+© 2019 American Chemical Society
+
+17015
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+a
+Scheme 1. Synthesis of 5a and 5b
+
+Article
+
+a3a−5a: Six linearly annelated rings. 3b−5b: Eight linearly annelated rings.
+
+(p-phenylenevinylene), and cyano-containing quinoidal ter-
+thiophenes, as well as their derivatives, etc.6 New n-type
+organic semiconductors with excellent OFET device perform-
+ance thus remain important and attractive.
+
+Boron atom has one less electron than carbon atom and has
+a typical empty p-orbital. This feature characterizes boron
+species as electron-deﬁcient scaﬀolds that can induce intriguing
+optoelectronic properties of organoboron compounds,7 such as
+two-photon absorption, near-infrared light absorption, ther-
+mally activated delayed ﬂuorescence, etc.8 For many years,
+incorporating B atoms into π-systems is expected to be an
+eﬀective approach to accomplish high electron aﬃnity and high
+electron mobility.7,9 However, B-containing π-conjugated
+molecules seldom show adequately high electron aﬃnity and
+their ELUMO are usually higher than −4.0 eV. B-containing π-
+conjugated molecules also display unsatisfactory electron-
+transporting properties. Their electron mobilities are usually
+less than 10−2 cm2 V−1 s−1.10 Boron species can coordinate
+with N-heteroaromatic rings to form boron−nitrogen coordi-
+nation bond (B←N), which has led to various organic
+semiconductors and light-emitting materials.11 Very recently,
+we developed a dibenzo-azaacene containing two B←N units,
+which shows a low-lying ELUMO of −3.87 eV and a decent
+electron mobility of 0.21 cm2 V−1 s−1.12 This study thus
+convinces us that B←N unit is a promising candidate to design
+π-conjugated molecules with high electron aﬃnity and high
+electron mobility (Figure 1a).
+
+In this work, we experimentally prove the remarkably high
+electron aﬃnity and high electron mobility of organoboron
+compounds. This is realized by incorporating multiple B←N
+units into azaacene to design quadruply B←N-fused dibenzo-
+four B←N units
+azaacene (QBNA). The incorporation of
+greatly changes the electronic structures and properties and
+signiﬁcantly downshifts the electronic energy levels of QBNA.
+QBNA shows an ultralow ELUMO of −4.58 eV, which is among
+the lowest for n-type organic semiconductors. The single-
+crystal OFET (SC-OFET) devices based on QBNA display
+unipolar n-type characteristic with an electron mobility of up
+to 1.60 cm2 V−1 s−1 and excellent ambient stability. To the best
+of our best knowledge, this is the ﬁrst organoboron molecule
+with electron mobility higher than 1 cm2 V−1 s−1.
+
+■ RESULTS AND DISCUSSION
+
+Our synthetic strategy of the B←N-containing polyarenes is to
+perform a one-pot multifold borylation cyclization on the tetra-
+alkylaminated dibenzo-azaacenes. Scheme 1 illustrates the
+synthetic route of QBNA (5b) and its analog 5a, which have
+eight and six linearly annelated rings, respectively. In the ﬁrst
+step, oxidization of 1,3,6,8-tetrabromopyrene 1 using the
+conventional oxidization conditions
+for pyrene and its
+derivatives could lead only to the partially oxidized products.13
+·xH2O as the
+So we improved the condition with NaIO4/RuCl3
+oxidant system and CH3CN/H2O as the solvent at a high
+reaction temperature of 120 °C, successfully producing the
+fully oxidized compound 2 in 58% yield. Condensation of 2
+with benzene-1,2-diamine/naphthalene-2,3-diamine and then
+alkylamination of 3a/3b produced the key precursors 4a/4b,
+respectively. The moderate yields of the alkylamination step
+are due to the low solubility of 3a/3b. Finally, the borylation
+·Et2O/Et3N aﬀorded 5a/5b in good
+reaction of 4a/4b with BF3
+yields, and in this step four B←N-fused six-membered rings are
+these B←N-containing
+simultaneously formed. Notably,
+polyarenes 5a and 5b are stable enough to be puriﬁed by
+silica gel column chromatography. They also show excellent
+light and oxygen stability as determined by the repeated
+photophysical measurements under ambient conditions in
+which no spectral change is observed. In addition, 5a and 5b
+are both well soluble in common organic solvents, such as
+chloroform, toluene, and tetrahydrofuran.
+
+The structures of 5a and 5b were unambiguously conﬁrmed
+by various NMR spectroscopies, high-resolution mass spec-
+trometry, and elemental analysis (see Supporting Information).
+The 11B NMR spectra exhibit only one signal at ca. 2.3 ppm
+(Figure S1). This is consistent with those for the organoboron
+compounds with boron atoms linked to two ﬂuorines and two
+the four B←N units on the
+nitrogens and suggests that
+frameworks exist in the same manner.14 In the 1H NMR
+spectrum of 5b, four diﬀerent signals observed in the aromatic
+region reveal its 4-fold symmetric structure in solution. To
+assign Ha, Hb, and Hc
+in the backbone of 5b, we also
+performed the 1H−1H COSY and 1D NOE measurements. In
+the 1H−1H COSY spectrum (Figure 2a),
+the correlation
+between Ha and Hb and no correlation of Hc (δ = 9.58 ppm,
+singlet) with others reveal that Hc is the proton adjacent to the
+B←N-linked ring. Two correlative signals in the 1D NOE
+
+17016
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+Article
+
+Figure 4 shows the absorption spectra of 5a and 5b in
+abs) at 745/
+
+toluene. 5a shows two main absorption peaks (λ
+
+Figure 2. (a) 1H−1H COSY and (b) 1D NOE spectra of 5b.
+
+spectrum can assign Hb (δ = 8.16 ppm) to the proton close to
+Hc (Figure 2b).15
+
+To gain insight into the conﬁgurations of 5a and 5b, we
+performed structural optimizations on the model compounds
+with methyl groups (5a-Me and 5b-Me) using density
+functional theory (DFT) calculations (B3LYP/6-31G(d,p)).
+As shown in Figure 3 and Figure S4, 5a-Me and 5b-Me both
+
+Figure 3. Optimized structure of 5b-Me calculated at the B3LYP/6-
+31G(d,p) level.
+
+adopt curved conﬁgurations along the azaacene skeletons with
+the dihedral angles of 23.4° and 25.4°, respectively. These
+curved conﬁgurations are in stark contrast
+to the planar
+conﬁgurations of the previously reported dibenzo-azaacenes
+containing two B←N units.12 This is attributed to the
+incorporation of multiple B←N units in 5a and 5b, which
+results in large fused-ring strain of B←N-heterocycles and thus
+distorts the whole π-skeleton for strain relaxation. It is notable
+that this curved structure has no negative eﬀects on molecular
+crystallinity. 5b displays excellent crystallinity, which is
+beneﬁcial
+for electron transport (vide infra). Recently,
+nonplanar polycyclic aromatic hydrocarbons (PAHs) have
+attracted great attention of synthesis chemists.16 The general
+approach to design nonplanar PAH molecules is to incorporate
+non-six-membered rings or steric hindrance into π-skeletons.
+reports,17 the
+Inspired by this study and other
+incorporation of B←N-containing six-membered cycles should
+be a new approach toward nonplanar PAHs.
+
+recent
+
+Figure 4. Absorption spectra of 5a and 5b in toluene. Insets are the
+photographs.
+
+685 nm and a detectable weak band at 800 nm. 5b exhibits two
+strong peaks at 783/712 nm and one weak band at 880 nm
+(Table 1 and Figure S5). Compared to that of 5a,
+the
+absorption spectrum of 5b is red-shifted by ca. 40 nm because
+of its extended π-conjugation. Electron-deﬁcient polyarenes
+with large π-skeletons mostly exhibit the absorption maxima in
+the visible region. For example, a C64 nanographene containing
+four imides reported by Würthner and co-workers shows the
+λ
+abs of 584 nm.18a A N-doped graphene nanoribbon with 7.7
+nm in length reported by Mateo-Alonso and co-workers
+exhibits the λ
+abs of 605 nm.18b In contrast, 5a and 5b
+containing four B←N units show the absorption peaks in the
+near-infrared (NIR) region. Moreover, the molar absorption
+coeﬃcients of 5a and 5b are both as high as exceeding 1 × 105
+M−1 cm−1. The toluene solutions of 5a and 5b exhibit the
+green and yellowish green colors, respectively.
+
+To elucidate these characteristic absorption bands, we
+conducted time-dependent DFT (TD-DFT) calculations on
+5a-Me and 5b-Me at
+the B3LYP/6-31G(d,p) level (see
+Supporting Information). The calculation results are shown
+in Figure 5. For 5a, while the weak absorption band at around
+
+Figure 5. Selected Kohn−Sham molecular orbitals and energy
+diagrams of 5a-Me and 5b-Me calculated at the B3LYP/6-31G(d,p)
+level. Excitation energies and oscillator strengths were computed by
+TD-DFT at the same level.
+
+17017
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+Article
+
+Table 1. Summary of Optoelectronic Properties and Energy Levels of 5a and 5b
+
+a [M−1 cm−1]
+1.07 × 105
+1.31 × 105
+
+λ
+abs
+
+a [nm]
+
+ε
+
+max
+
+opt b [eV]
+Eg
+
+ox c [V]
+Epa
+
+ELUMO
+
+d [eV]
+
+EHOMO
+
+d [eV]
+
+e [eV]
+
+Eg
+
+5a
+5b
+
+745/685
+783/712
+
+−4.45
+−5.94
+1.57
+−4.58
+−5.95
+1.51
+aIn toluene solution (1 × 10−5 M). bOptical energy gaps calculated according to the equation Eg
+onset eV. cHalf-reduction potentials and
+anodic peak potentials (vs Fc/Fc+) measured in CH2Cl2 at a scan rate of 50 mV s−1. dEstimated according to the equations ELUMO/EHOMO =
+−(4.80 + E1/2
+
+ox) eV. eElectrochemical gaps calculated according to the equation Eg = (Epa
+
++1.14
++1.15
+opt = 1240/λ
+
+ox − E1/2
+
+red1) eV.
+
+red1/Epa
+
+1.49
+1.37
+
+red1 c [V]
+E1/2
+−0.35
+−0.22
+
+red2 c [V]
+E1/2
+−0.90
+−0.70
+
+red3 c [V]
+E1/2
+−2.10
+−1.94
+
+800 nm is assigned to the electronic transition of HOMO-1 →
+LUMO, the maximum absorption band at 600−800 nm is
+assigned to the HOMO → LUMO and HOMO-3 → LUMO
++2 transitions. For 5b, the weak absorption band at ca. 880 nm
+is attributed to the HOMO-4 → LUMO and HOMO-2 →
+LUMO transitions and the maximum absorption band is
+assigned to the HOMO-1 → LUMO transition. The
+absorption properties of 5a and 5b are well reproduced by
+the TD-DFT calculations. Accordingly, the weak absorption
+bands in the long-wavelength region of 5a and 5b are both
+attributed to the intramolecular charge transfer (ICT)
+transitions within π-frameworks accompanying small oscillator
+strengths (Figures S8 and S9). In addition, the absorption
+bands of 5a and 5b all involve their LUMOs. The LUMOs of
+5a and 5b both are localized on the linear azaacene skeletons
+and the LUMO energy levels are very low (ca. −4.0 eV). These
+characteristics are totally diﬀerent from those of the all-carbon
+analogous compounds (Figure S10). It is suggested that the
+four B←N units greatly perturb the electronic structures of π-
+skeletons, thus contributing to the NIR absorption properties
+of 5a and 5b.
+
+To evaluate their electron aﬃnity, we performed cyclic
+voltammetry measurements on 5a and 5b in CH2Cl2 using n-
+Bu4NClO4 (0.1 M) as supporting electrolyte. As shown in
+Figure 6, both of them exhibit three well-deﬁned reversible
+
+Figure 6. Cyclic voltammograms of 5a and 5b in CH2Cl2 (0.4 mM).
+Fc/Fc+ = ferrocene/ferrocenium.
+
+the
+reduction processes, suggesting excellent stabilities of
+generated radical anion intermediates. The half-reduction
+red ) are −0.35/−0.90/−2.10 V for 5a and
+potentials (E1/2
+−0.22/−0.70/−1.94 V for 5b (Table 1), respectively (vs Fc/
+Fc+). Irreversible oxidation processes are observed with the
+ox) of +1.14 V for 5a and +1.15 V for
+anodic peak potential (Epa
+their ﬁrst
+5b. On the basis of
+reduction and oxidation
+potentials, we estimated the LUMO and HOMO levels of 5a
+and 5b. The ELUMO and EHOMO are −4.45/−5.94 eV for 5a and
+−4.58/−5.95 eV for 5b, respectively. The ultralow ELUMO of 5a
+and 5b experimentally prove their extremely high electron
+aﬃnity. The variations in energy levels from 5a to 5b are fully
+consistent with the theoretical calculation results (Figure S11).
+Low ELUMO is necessary for eﬃcient electron injection and
+transport of n-type organic semiconductors in OFETs.4,5 The
+
+extremely low ELUMO of ca. −4.5 eV of 5a and 5b are rarely
+achieved for B-containing π-systems. Only a few organoboron
+compounds show very low ELUMO, which are mostly based on
+boron-dipyrromethene (BPDIPY), such as quinodimethane
+bridged BODIPY dimers and BF 2-containing bis-
+(pyrrolopyrrole) cyanines.19 Compared to the reported
+dibenzo-azaacenes containing two B←N units, 5a and 5b
+containing four B←N units exhibit the lower ELUMO by ca. 0.7
+eV.12 The extra two B←N units further lead to the large
+downshifts of the ELUMO of π-systems. Moreover, the ELUMO of
+5a and 5b are among the lowest for the reported high-
+performance n-type organic semiconductors (Figure S13).5
+Therefore, the incorporation of multiple B←N units is an
+eﬃcient strategy to signiﬁcantly enhance electron aﬃnity of the
+π-system.
+
+Another interesting aspect is the crystalline property of 5b.
+these B←N-
+In our attempt
+to grow single crystals of
+containing polyarenes in solution for X-ray structural analysis,
+we could obtain some micrometer-sized wires of 5b. On the
+basis of this phenomenon, we prepared the microstructures of
+5b on the substrate via a solvent evaporation method. The
+solution of 5b in toluene (1 mg/mL) was drop-casted on the
+octadecyltrichlorosilane (OTS)-treated SiO2/Si substrate in a
+sealed Petri dish. After evaporation of
+the solvent, some
+microstructures appeared on the substrate. The polarized
+optical microscopy (POM) images in Figure 7a show that
+microwires with the length of around 20 μm are formed. When
+the substrate is rotated by 45°, these microwires exhibit the
+obvious color change from bright to dark,
+indicating the
+crystalline character of 5b. As shown in Figure 7b, the atomic
+force microscopy (AFM) image of a typical microwire reveals a
+smooth surface with the thickness of around 36 nm.
+Transmission electron microscopy (TEM) and selected-area
+electron diﬀraction (SAED) were used to further assess the
+crystalline property of 5b. As shown in Figure 7c, the bright
+and well-deﬁned diﬀractions as well as no change of the SAED
+patterns at diﬀerent regions of an individual microwire prove
+the single-crystal nature of the whole wire, demonstrating the
+good crystallinity of 5b. According to the SAED diﬀraction
+patterns, a repeating unit of 7.2 Å along the crystal growth
+direction is observed. This value is much smaller than that of
+the molecular width and length, indicating that the molecular
+packing orientation of 5b is probably along the crystal growth
+direction. The good crystallinity of 5b may be correlated to its
+large π-framework without any steric hindrance at
+the
+periphery.
+
+To investigate the electron-transporting properties of these
+B←N-containing polyarenes, we fabricated the OFET devices
+based on the single-crystal microwires of 5b. The SC-OFET
+devices with a bottom-gate/top-contact (BG/TC) conﬁgu-
+ration were fabricated using the “organic ribbon mask”
+method.20 Gold source and drain electrodes were deposited
+on an individual microwire via thermal evaporation (Figure
+7d). The optical microscopy image of one typical device is
+
+17018
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+Journal of the American Chemical Society
+
+Article
+
+Figure 7. (a) Polarized optical microscopy images of the single-crystal microwires with rotations of 0° and 45°. (b) AFM image with the thickness
+analysis and (c) SAED pattern with a TEM image of a typical single-crystal microwire. (d) Schematic device structure of the BG/TC SC-OFETs.
+(e) Transfer curves of the SC-OFET device based on 5b with its optical microscopy image. (f) Stability of the SC-OFET device in air at room
+temperature.
+
+shown in the inset of Figure 7e. The transfer and output
+characteristics of
+the device measured under ambient
+conditions are provided in Figure 7e and Figure S15. The
+SC-OFET device exhibits the unipolar n-type behavior. A
+highest electron mobility of 1.60 cm2 V−1 s−1 (average of 20
+devices: 1.03 ± 0.21 cm2 V−1 s−1) with an on/oﬀ current ratio
+of 105−106 and a threshold voltage of 14 V was obtained
+(Figure S16). Furthermore, the excellent ambient stability of
+the SC-OFET device of 5b was demonstrated. Figure 7f shows
+the typical curves of performance versus storage time. Less
+than 5% degradation in electron mobility was observed after
+storing the device in air for 10 days. Therefore, the electron-
+transporting properties of 5b are greatly improved in
+comparison to those of
+the reported dibenzo-azaacene
+containing two B←N units. It is ascribed to the signiﬁcantly
+enhanced electron aﬃnity and good crystallinity of 5b, which
+facilitate electron injection and transport and improve air
+stability. To the best of our knowledge, this is the ﬁrst time
+that electron mobility higher than 1 cm2 V−1 s−1 was obtained
+for organoboron compounds. B←N-containing polyarenes
+thus represent a new kind of high-performance n-type organic
+semiconductors.
+
+■ CONCLUSIONS
+
+In conclusion, we have synthesized two π-conjugated
+polyarenes incorporated with four B←N units through one-
+pot multifold borylation cyclization reaction. The incorpo-
+ration of multiple B←N units signiﬁcantly impacts their
+electronic structures and properties. QBNA has a LUMO
+energy level as low as −4.58 eV, illustrating its remarkably high
+electron aﬃnity. Moreover, QBNA shows good crystallinity
+despite its curved conﬁguration. The SC-OFET devices based
+on QBNA display unipolar n-type behavior with an electron
+mobility of 1.60 cm2 V−1 s−1 and excellent ambient stability.
+This study thus experimentally proves the high electron aﬃnity
+and high electron mobility of organoboron compounds.
+Furthermore, this study provides a design strategy for π-
+systems with high electron aﬃnity based on organoboron
+
+chemistry, which can be applied to the construction of other
+electronic materials.
+
+■ ASSOCIATED CONTENT
+
+*S Supporting Information
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/jacs.9b09640.
+
+Experimental details, thermal and photophysical proper-
+ties, and theoretical calculations of 5a and 5b, as well as
+the SC-OFET device fabrications and characterizations
+of 5b (PDF)
+
+■ AUTHOR INFORMATION
+
+Corresponding Authors
+*chuandong.dou@ciac.ac.cn
+*dhl522@iccas.ac.cn
+*liujun@ciac.ac.cn
+ORCID
+Huanli Dong: 0000-0002-5698-5369
+Jun Liu: 0000-0003-1487-0069
+Notes
+The authors declare no competing ﬁnancial interest.
+
+■ ACKNOWLEDGMENTS
+
+This work was supported by the National Natural Science
+Foundation of China (Nos. 21822507, 21625403, and
+51725304) and National Key Research and Development
+Program of China (No. 2018YFE0100600) founded by
+MOST. C.D. also thanks Youth Innovation Promotion
+Association of Chinese Academy of Sciences (No. 2017265)
+and State Key Laboratory of Supramolecular Structure and
+Materials in Jilin University (No. sklssm201905).
+
+■ REFERENCES
+
+(1) (a) Batley, M.; Lyons, L. E. Electron Affinities of Organic
+Molecules. Nature 1962, 196, 573−574. (b) Pritchard, H. O. The
+Determination of Electron Affinities. Chem. Rev. 1953, 52, 529−563.
+
+17019
+
+DOI: 10.1021/jacs.9b09640
+J. Am. Chem. Soc. 2019, 141, 17015−17021
+
+
+```markdown
+Table 1. Summary of Optoelectronic Properties and Energy Levels of 5a and 5b
+
+| λmax (nm) | ε (L mol−1 cm−1) |  EST (eV) | E1/2ox1 (V) | E1/2ox2 (V) | E1/2ox3 (V) | E1/2red (V) | E1/2UMO (eV) | E1/2HOMO (eV) | EL (eV) |
+|------------|------------------|------------|-------------|-------------|-------------|-------------|--------------|---------------|---------|
+| 5a 745/685 | 1.30 × 105       | 1.57       | −0.35       | −0.90       | −2.10       | +1.14       | −4.45        | −5.94         | 1.49    |
+| 5b 783/712 | 1.31 × 105       | 1.51       | −0.22       | −0.70       | −1.94       | +1.15       | −4.58        | −5.95         | 1.37    |
+
+Anode peak potentials (vs Fc/Fc+) measured in CH2Cl2 at a scan rate of 50 mV s−1. Half-reduction potentials and anodic peak potentials (vs Fc/Fc+) measured in CH2Cl2 at a scan rate of 50 mV s−1. *Estimated according to the equations ELUMO/EHOMO = (E1/2red + E1/2ox1) eV. Electrochemical gaps calculated according to the equation Eg = (EHOMO − ELUMO) eV.
+```
+
+Supporting Information 
+
+for 
+
+Quadruply B←N-Fused Dibenzo-azaacene with High Electron Affinity and High 
+
+Electron Mobility 
+
+Yang Min,†,§ Chuandong Dou,†,* Dan Liu,‡,§ Huanli Dong‡,* and Jun Liu†,* 
+
+†State  Key  Laboratory  of  Polymer  Physics  and  Chemistry,  Changchun  Institute  of  Applied  Chemistry,  Chinese 
+Academy of Sciences, Changchun 130022, P. R. China. 
+‡Beijing  National  Laboratory  for  Molecular  Science, Key  Laboratory  of  Organic  Solids,  Institute  of  Chemistry, 
+Chinese Academy of Sciences, Beijing 100190, P. R. China. 
+§University of Chinese Academy of Sciences, Beijing 100049, P. R. China. 
+E-mail: chuandong.dou@ciac.ac.cn; dhl522@iccas.ac.cn; liujun@ciac.ac.cn.   
+
+Contents 
+
+1. Experimental details 
+
+2. Syntheses and characterizations 
+
+3. Thermal properties 
+
+4. Geometry optimizations 
+
+5. Absorption spectra 
+
+6. Theoretical calculations 
+
+7. SC-OFET device fabrications and characterizations 
+
+8. 1H NMR and 13C NMR spectra 
+
+9. Reference 
+
+S1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Experimental details 
+
+General. 1H and 13C NMR spectra were obtained using a Bruker AV-400 (400 MHz for 1H and 
+
+100  MHz  for  13C)  spectrometer  in  d-DMSO,  CDCl3  and  C6D6  at  25  °C.  11B  NMR  spectra  were 
+
+measured  with  a  Bruker  AV  III  HD-500  spectrometer  in  CDCl3  at  25  °C.  Chemical  shifts  are 
+
+reported in  ppm using d-DMSO (2.50 ppm), CHCl3 (7.26 ppm) and C6H6 (7.16 ppm) for 1H NMR, 
+
+as well as using d-DMSO (39.52 ppm), CDCl3 (77.16 ppm) and C6D6 (128.06 ppm) for 13C NMR. 
+
+For 11B NMR, BF3•Et2O was used as an external standard. Elemental analysis was conducted on a 
+
+VarioEL elemental analyzer. Thermal analysis was performed on a Perkin-Elmer 7 instrument at a 
+
+heating  rate  of  10  °C  min–1  under  nitrogen  flow.  Absorption  spectra  were  measured  with  a 
+
+Shimadzu  UV-3600  spectrometer  using  spectral  grade  solvents.  Cyclic  voltammetry  (CV)  was 
+
+performed on an CHI660a electrochemical workstation using Bu4NClO4 (0.1 M) as electrolyte at a 
+
+scan rate of 50 mV s–1. The CV cell has a glassy carbon electrode, a Pt wire counter electrode, and a 
+
+standard calomel reference electrode. The measurement was carried out under an argon atmosphene 
+
+in  CH2Cl2 (0.4 mM). The redox potentials were  calibrated  with  ferrocene as an internal  standard. 
+
+The highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) 
+
+energy levels  were  calculated based on  the equations: EHOMO/ELUMO = –(4.80 +  Epa
+
+ox1/E1/2
+
+red1) eV. 
+
+Atomic force microscopy (AFM) was performed with a SPA300HV (Seiko Instruments, Inc., Japan) 
+
+in tapping mode. Polarized optical microscopy and scanning electron microscopy were performed 
+
+using  Carl  Zeiss  Microlmaging  GmbH  Axio  Imager  A2m  and  XL-30  ESEM  FEG  Scanning 
+
+Electron  Microscope  FEI  COMPANYTM,  respectively.  Transmission  electron  microscopy  (TEM) 
+
+and  selected-area  electron  diffraction  (SEAD)  were  performed  using  a  JEOL  JEM-1011 
+
+transmission  electron  microscope  operated  at  100  kV.  The  grazing  incidence  X-ray  diffraction 
+
+(GI-XRD) data was obtained on a Bruker D8 Discover reflector (Cu Kα, λ = 1.54056 Å) under 40 
+
+kV  and  40  mA  tube  current.  The  scanning  speed  is  3  s  per  step  with  0.1°  step  size  (2θ).  The 
+
+measurements were conducted in a scanning interval of 2θ between 2° and 30°.   
+
+Materials  and  reagents.  All  reactions  were  performed  under  an  argon  atmosphere,  unless 
+
+stated  otherwise.  Commercially  available  solvents  and  reagents  were  used  without  further 
+
+purification  unless  otherwise  mentioned.  Dry  toluene  and  CH2Cl2  were  distilled  via  standard 
+
+methods.   
+
+S2 
+
+ 
+
+ 
+
+ 
+
+2. Syntheses and characterizations 
+
+1,3,6,8-tetrabromopyrene-4,5,9,10-tetraone (2): In a 250 mL glass vessel equipped with J. Young 
+
+valve, 1,3,6,8-tetrabromopyrene 1 (1.35 g, 2.61 mmol), NaIO4 (5.30 g, 24.8 mmol) and RuCl3
+
+.xH2O 
+
+(54 mg) were placed and CH3CN (60 mL) and H2O (13.5 mL) were added. The mixture was stirred 
+
+at  120  oC for  15 h.  After cooling down, the organic solvent  was removed under reduced pressure 
+
+and  then  H2O  was  added  to  the  mixture.  The  mixture  was  filtered  and  the  obtained  solid  was 
+
+washed  using  H2O,  CH3OH  and  ether  to  give  the  target  2  in  58%  yield.  1H  NMR  (400  MHz, 
+
+d-DMSO,  25  oC):  δ  (ppm)  8.42  (s,  1H).  13C  NMR(100  MHz,  d-DMSO,  25  oC):  δ  (ppm)  177.05, 
+
+142.02, 136.62, 128.36, 127.80. Anal. Calcd for C16H2Br4O4: C, 33.26; H, 0.35; Br, 55.32; O, 11.08. 
+
+Found: C, 33.15; H, 0.40. 
+
+1,3,10,12-tetrabromoquinoxalino[2',3':9,10]phenanthro[4,5-abc]phenazine 
+
+(3a): 
+
+1,3,6,8-tetrabromopyrene-4,5,9,10-tetraone  2  (281  mg,  0.49  mmol)  and  benzene-1,2-diamine  (110 
+
+mg, 1.01 mmol) were placed in a three-necked flask, followed by adding acetic acid (50 mL). The 
+
+mixture  was  stirred  at  120  oC  for  9  h.  After  cooling  down,  the  acetic  acid  was  removed  and  the 
+
+mixture was washed using H2O and then CH3OH. The obtained target 3a was used for the next step 
+
+without further purification. Yield: 266 mg, 76%.   
+
+1,3,12,14-tetrabromobenzo[i]benzo[6',7']quinoxalino[2',3':9,10]phenanthro[4,5-abc]phenazine 
+
+(3b): 
+
+1,3,6,8-tetrabromopyrene-4,5,9,10-tetraone 
+
+2 
+
+(880  mg, 
+
+1.52  mmol) 
+
+and 
+
+naphthalene-2,3-diamine  (506  mg,  3.20  mmol)  were  placed  in  a  three-necked  flask,  followed  by 
+
+adding acetic acid (200 mL). The mixture was stirred at 120  oC for 20 h. After cooling down, the 
+
+acetic acid was removed and the mixture was washed using H2O, CH3OH and CHCl3. The obtained 
+
+target 3b was used for the next step without further purification. Yield: 968 mg, 77%.   
+
+S3 
+
+ 
+
+ 
+
+ 
+
+N1,N3,N10,N12-tetrakis(2-ethylhexyl)quinoxalino[2',3':9,10]phenanthro[4,5-abc]phenazine-1,
+
+3,10,12-tetraamine (4a): Under argon, 3a (150 mg, 0.21 mmol), Pd2(dba)3 (11.5 mg, 0.013 mmol), 
+
+1,1'-bis(diphenylphosphino)ferrocene  (dppf)  (28  mg,  0.051  mmol)  and  sodium  tert-butoxide  (320 
+
+mg, 3.33 mmol) were placed in a three-necked flask. Dried toluene (80 mL) and 2-ethylhexyl-amine 
+
+(430 mg, 3.33 mmol) were then added. The mixture was stirred at 120  oC for 15 h. After cooling 
+
+down,  the  mixture  was  extracted  using  water  and  CH2Cl2.  The  organic  phase  was  dried  over 
+
+anhydrous  Na2SO4,  filtered  and  concentrated  under  reduced  pressure.  The  crude  product  was 
+
+purified by silica gel column chromatography with CH2Cl2:hexane = 1:2 as eluent to give 4a. Yield: 
+
+40 mg, 21%.  1H NMR (400 MHz, C6D6, 25  oC): δ (ppm) 12.86 (t,  J = 4.0 Hz, 2H), 8.0 (m, 2H), 
+
+7.42 (m, 2H), 6.39 (s, 1H), 3.47 (m, 4H), 1.96 (m, 2H), 1.84−1.62 (m, 8H), 1.49−1.37 (m, 8H), 1.07 
+
+(t, J = 4.0 Hz, 6H), 0.95 (t, J = 8.0 Hz, 6H).  13C NMR(100 MHz, C6D6, 25  oC): δ (ppm) 153.80, 
+
+146.55,  137.92,  135.80,  126.97,  126.73,  103.44,  90.38,  46.98,  39.65,  32.41,  29.74,  25.48,  23.68, 
+
+14.46, 11.42. Anal. Calcd for C60H82N8: C, 78.73; H, 9.03; N, 12.24. Found: C, 78.53; H, 9.15; N, 
+
+12.35. 
+
+N1,N3,N12,N14-tetrakis(2-ethylhexyl)benzo[i]benzo[6',7']quinoxalino[2',3':9,10]phenanthro[4
+
+,5-abc]phenazine-1,3,12,14-tetraamine (4b): Under argon, 3b (631 mg, 0.77 mmol), Pd2(dba)3 (42 
+
+mg,  0.046  mmol),  1,1'-bis(diphenylphosphino)ferrocene  (dppf)  (102  mg,  0.18  mmol)  and  sodium 
+
+tert-butoxide (1.18 g, 12.3 mmol) were placed in a three-necked flask. Dried toluene (100 mL) and 
+
+2-ethylhexyl-amine (1.30 mg, 10 mmol) were then added. The mixture was stirred at 120 oC for 17 
+
+h. After cooling down, the mixture was extracted using water and CH2Cl2. The organic phase was 
+
+dried over anhydrous Na2SO4, filtered and concentrated under reduced pressure. The crude product 
+
+was purified by silica gel column chromatography with CH2Cl2:hexane = 1:1.5 as eluent to give 4b. 
+
+Yield: 76 mg, 12%. 1H NMR (400 MHz, C6D6, 25 oC): δ (ppm) 13.03 (t, J = 2.0 Hz, 2H), 8.32 (s, 
+
+2H), 7.95 (m, 2H), 7.26 (m, 2H), 6.18 (s, 1H), 3.42 (m, 4H), 1.96−1.40 (m, 18H), 1.13 (t, J = 8.0 Hz, 
+
+6H), 0.99 (t, J = 4.0 Hz, 6H).  13C NMR(100 MHz, C6D6, 25  oC): δ (ppm) 154.12, 147.12, 136.18, 
+
+S4 
+
+ 
+
+ 
+
+135.59,  133.28,  125.22,  123.37,  103.98,  90.05,  47.35,  39.58,  32.29,  29.72,  25.30,  23.81,  14.55, 
+
+11.43. Anal. Calcd for C68H86N8: C, 80.43; H, 8.54; N, 11.03. Found: C, 80.32; H, 8.62; N, 11.01. 
+
+1,8,10,17-tetrakis(2-ethylhexyl)-2,2,7,7,11,11,16,16-octafluoro-1,2,7,8,10,11,16,17-octahydro-1,
+
+2al4,6bl4,8,10,11al4,15bl4,17-octaaza-2l4,7l4,11l4,16l4-tetraboradibenzo[d,o]ovalene 
+
+(5a): 
+
+Under argon, BF3
+
+.Et2O solution (2.89 mL) was added to a solution of 4a (40 mg, 0.044 mmol) and 
+
+Et3N (0.74 mL) in dry toluene (20 mL). The mixture was stirred at 120 °C for 6 h with the color 
+
+changing into green. After removing the solvents, the solid was dispersed into methanol, followed 
+
+by filtration. The obtained solid was purified by silica gel column chromatography (CH2Cl2:hexane 
+
+= 1:1) to give 5a in 66% yield (32 mg). 1H NMR (400 MHz, CDCl3, 25 oC): δ (ppm) 9.03 (m, 2H), 
+
+7.82 (m, 2H), 6.65 (s, 1H), 3.84 (d, J = 4.0 Hz, 4H), 2.12 (m, 2H), 1.52−1.25 (m, 16H), 0.94−0.86 
+
+(m,  12H).  13C  NMR(100  MHz,  CDCl3,  25  oC):  δ  (ppm)  151.66,  137.08,  132.71,  132.05,  130.87, 
+
+124.09, 104.34, 93.97, 49.41, 36.86, 30.87, 28.83, 24.04, 23.34, 14.25, 10.74. 11B NMR (128 MHz, 
+
+CDCl3, 25 °C): δ 2.55. Anal. Calcd for C60H78B4F8N8: C, 65.13; H, 7.11; B, 3.91; F, 13.74; N, 10.13. 
+
+Found:  C,  65.23;  H,  7.03;  N,  10.21.  High-resolution  MALDI-TOF  MS,  Calcd  for  C60H78B4F7N8: 
+
+1087.6610 (M−F), found 1087.6728. 
+
+1,10,12,21-tetrakis(2-ethylhexyl)-2,2,9,9,13,13,20,20-octafluoro-1,2,9,10,12,13,20,21-octahydro-
+
+1,2al4,8bl4,10,12,13al4,19bl4,21-octaaza-2l4,9l4,13l4,20l4-tetraboradinaphtho[2,3-d:2',3'-o]ov
+
+alene (5b): Under argon, BF3
+
+.Et2O solution (3.49 mL) was added to a solution of 4b (37 mg, 0.036 
+
+mmol) and Et3N (0.88 mL) in dry toluene (20 mL). The mixture was stirred at 120 °C for 8 h with 
+
+the color changing into green. After removing the solvents, the solid was dispersed into methanol, 
+
+followed  by  filtration.  The  obtained  solid  was  purified  by  silica  gel  column  chromatography 
+
+(CHCl3:hexane = 2:1) to give 5b in 40% yield (18 mg). 1H NMR (400 MHz, CDCl3, 25 oC): δ (ppm) 
+
+9.58  (s,  2H),  8.16  (m,  2H),  7.69  (m,  2H),  6.58  (s,  1H),  3.86  (d,  J  =  4.0  Hz,  4H),  2.12  (m,  2H), 
+
+1.54−1.25  (m,  16H),  0.96−0.86  (m,  12H).  13C  NMR(100  MHz,  CDCl3,  25  oC):  δ  (ppm)  151.81, 
+
+137.45, 133.68, 131.89, 129.07, 128.90, 128.84, 122.56, 101.99, 93.90, 49.43, 36.98, 30.90, 28.85, 
+
+S5 
+
+ 
+
+ 
+
+24.0,  23.42,  14.26,  10.78.  11B  NMR  (128  MHz,  CDCl3,  25  °C):  δ  2.34.  Anal.  Calcd  for 
+
+C68H82B4F8N8:  C,  67.69;  H,  6.85;  B,  3.58;  F,  12.60;  N,  9.29.  Found:  C,  67.58;  H,  6.96;  N,  9.19. 
+
+High-resolution MALDI-TOF MS, Calcd for C68H82B4F7N8: 1087.6923 (M−F), found 1187.6774. 
+
+Figure S1. 11B NMR spectra of 5a and 5b in CDCl3 at 25 °C.   
+
+Figure S2. High-resolution MALDI-TOF MS spectra of 5a and 5b.   
+
+S6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Thermal properties   
+
+Thermogravimetric  analysis  (TGA)  measurements  indicate  that  the  thermal  decomposition 
+
+temperature (Td) at 5%  weight loss  is 250  oC for 5a  and  306  oC for 5b,  respectively. 5b shows a 
+
+weight  loss of 7.8% at  313  oC in  TGA  curve,  which is  ascribed to  the  release of two  BF2 groups 
+
+(theoretical value: 8.0%).   
+
+Figure S3. TGA curves of 5a and 5b. 
+
+S7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Geometry optimizations 
+
+The  geometry  optimizations  of  5a-Me  and  5b-Me,  as  well  as  5a-CC  and  5b-CC  were 
+
+performed  using  Gaussian  09  program  at  the  B3LYP/6-31G(d,p)  level  of  theory.1  5a-Me  and 
+
+5b-Me  are  the  model  compounds  of  5a  and  5b  with  methyl  group  replacing  isooctyl  chain.  The 
+
+C−C-containing polyarenes 5a-CC and 5b-CC are the analogues of 5a and 5b, which use the four 
+
+C−C covalent bonds to replace the B←N units.   
+
+Figure  S4.  The  optimized  structures  of  a)  5a-Me,  b)  5a-CC  and  c)  5b-CC  calculated  at  the 
+
+B3LYP/6-31G(d,p) 
+
+level  of 
+
+theory.  The  B←N-containing  polyarenes  exhibit 
+
+the  curved 
+
+configurations, whereas  the C−C-containing polyarenes show the fully planar configurations.  It  is 
+
+suggested  that  the  overcrowded  B←N  units  can  significantly  impact  on  the  molecular 
+
+configurations.   
+
+S8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table S1. Coordinates of the optimized structure for 5a-Me at the B3LYP/6-31G(d,p) level. 
+
+                          atom                                  x                      y                      z   
+
+C                                    0.00002400      -3.52902200      -0.45260700 
+
+C                                    1.22485200      -2.86920900      -0.33637300 
+
+C                                    1.23513500      -1.42789600      -0.15909200 
+
+C                                    0.00000400      -0.72653600      -0.13558800 
+
+C                                  -1.23511200      -1.42792200      -0.15900400 
+
+C                                  -1.22480600      -2.86924400      -0.33621600 
+
+C                                    2.46787600      -0.72818800      -0.03072700 
+
+C                                  -0.00000700        0.72653600      -0.13559200 
+
+C                                    1.23510900        1.42792300      -0.15902300 
+
+C                                    2.46786300        0.72823300      -0.03065500 
+
+C                                    1.22480300        2.86924300      -0.33624500 
+
+C                                  -0.00002900        3.52902100      -0.45262400 
+
+C                                  -1.22485500        2.86920900      -0.33637500 
+
+C                                  -1.23513800        1.42789600      -0.15909100 
+
+C                                  -2.46787800        0.72818900      -0.03071500 
+
+C                                  -2.46786400      -0.72823100      -0.03063500 
+
+H                                  -0.00003800        4.59853000      -0.57124000 
+
+C                                    4.82617900        0.70986000        0.30593000 
+
+C                                    4.82619700      -0.70980900        0.30578400 
+
+C                                  -4.82619600        0.70981000        0.30581600 
+
+C                                  -4.82617600      -0.70985900        0.30595800 
+
+C                                    6.03515600        1.40418500        0.55782500 
+
+H                                    6.04064300        2.48114500        0.57503500 
+
+C                                    6.03519600      -1.40417200        0.55745700 
+
+H                                    6.04070600      -2.48113800        0.57437400 
+
+C                                    7.19579500      -0.70391600        0.79726200 
+
+C                                    7.19577100        0.70389600        0.79746500 
+
+C                                  -6.03515000      -1.40418900        0.55785200 
+
+H                                  -6.04063400      -2.48114900        0.57504600 
+
+C                                  -6.03519500        1.40416700        0.55750500 
+
+H                                  -6.04070800        2.48113200        0.57443200 
+
+C                                  -7.19579000        0.70390700        0.79731500 
+
+C                                  -7.19576400      -0.70390500        0.79750400 
+
+N                                  -3.63958000        1.38977300        0.08017000 
+
+N                                  -3.63954600      -1.38983000        0.08037900 
+
+N                                    3.63954700        1.38983200        0.08034900 
+S9 
+
+ 
+
+N                                    3.63957900      -1.38977200        0.08015100 
+
+N                                  -2.38563400        3.53785900      -0.42317000 
+
+B                                  -3.73212800        2.99259800      -0.00308700 
+
+F                                  -4.10090000        3.45788800        1.25484100 
+
+F                                  -4.69259500        3.31921800      -0.95380400 
+
+C                                  -2.38392700        4.97116700      -0.70986800 
+
+H                                  -1.94509000        5.55113500        0.11137900 
+
+H                                  -1.82667700        5.18334900      -1.62860200 
+
+H                                  -3.41472100        5.28879300      -0.85523900 
+
+H                                    0.00003200      -4.59853200      -0.57121900 
+
+N                                  -2.38557500      -3.53793400      -0.42283700 
+
+B                                  -3.73203600      -2.99267700      -0.00264500 
+
+C                                  -2.38385300      -4.97125500      -0.70947500 
+
+H                                  -1.82674100      -5.18345500      -1.62828900 
+
+H                                  -1.94485900      -5.55116800        0.11172600 
+
+H                                  -3.41465700      -5.28893000      -0.85466800 
+
+F                                  -4.10064500      -3.45780100        1.25539000 
+
+F                                  -4.69258500      -3.31948900      -0.95321400 
+
+N                                    2.38563200      -3.53785900      -0.42317600 
+
+N                                    2.38557100        3.53793100      -0.42289000 
+
+C                                    2.38392400      -4.97116800      -0.70987200 
+
+H                                    1.94509300      -5.55113500        0.11137800 
+
+H                                    1.82666700      -5.18335100      -1.62860200 
+
+H                                    3.41471700      -5.28879200      -0.85525000 
+
+C                                    2.38384800        4.97124900      -0.70954200 
+
+H                                    1.82671500        5.18344200      -1.62834500 
+
+H                                    1.94487600        5.55117200        0.11166400 
+
+H                                    3.41465000        5.28891900      -0.85476200 
+
+F                                    4.10089200      -3.45787200        1.25484400 
+
+F                                    4.69259900      -3.31922600      -0.95379900 
+
+F                                    4.10067900        3.45784400        1.25529300 
+
+F                                    4.69256600        3.31946200      -0.95332200 
+
+B                                    3.73212500      -2.99259700      -0.00309100 
+
+B                                    3.73204000        2.99267900      -0.00272000 
+
+H                                    8.11334000      -1.24808800        0.99576000 
+
+H                                    8.11329700        1.24803900        0.99612800 
+
+H                                  -8.11328700      -1.24805200        0.99616700 
+
+H                                  -8.11333300        1.24807500        0.99582500 
+
+S10 
+
+ 
+
+Table S2. Coordinates of the optimized structure for 5b-Me at the B3LYP/6-31G(d,p) level. 
+
+                        atom                                  x                        y                      z 
+
+C                                  -0.00005000        3.52751100      -0.64533200 
+
+C                                  -1.22445600        2.86853900      -0.52160400 
+
+C                                  -1.23461800        1.42809800      -0.33288200 
+
+C                                  -0.00001200        0.72764300      -0.30751000 
+
+C                                    1.23456100        1.42816500      -0.33255600 
+
+C                                    1.22436100        2.86864400      -0.52099700 
+
+C                                  -2.46845900        0.73092600      -0.19270100 
+
+C                                    0.00001400      -0.72762000      -0.30752100 
+
+C                                  -1.23455500      -1.42813600      -0.33265600 
+
+C                                  -2.46841100      -0.73099100      -0.19245000 
+
+C                                  -1.22436600      -2.86860400      -0.52118100 
+
+C                                    0.00004500      -3.52746800      -0.64551500 
+
+C                                    1.22445100      -2.86852600      -0.52155600 
+
+C                                    1.23461400      -1.42808100      -0.33285900 
+
+C                                    2.46845200      -0.73090900      -0.19265300 
+
+C                                    2.46842300        0.73101100      -0.19243200 
+
+H                                    0.00006300      -4.59594000      -0.77317000 
+
+C                                  -4.82585900      -0.71682700        0.16997200 
+
+C                                  -4.82594000        0.71673100        0.16953800 
+
+C                                    4.82593700      -0.71673900        0.16957100 
+
+C                                    4.82590900        0.71681600        0.16981300 
+
+C                                  -6.01110100      -1.40473200        0.43599100 
+
+H                                  -6.01701700      -2.48248100        0.45702000 
+
+C                                  -6.01130900        1.40463100        0.43502100 
+
+H                                  -6.01743600        2.48239100        0.45531300 
+
+C                                  -7.20307000        0.71867800        0.69834400 
+
+C                                  -7.20296000      -0.71878500        0.69887200 
+
+C                                    6.01121400        1.40470100        0.43561500 
+
+H                                    6.01721900        2.48245400        0.45638100 
+
+C                                    6.01127000      -1.40466200        0.43514900 
+
+H                                    6.01729900      -2.48241900        0.45569800 
+
+C                                    7.20307600      -0.71873100        0.69831400 
+
+C                                    7.20304700        0.71873200        0.69855800 
+
+N                                    3.63477200      -1.39374100      -0.07584500 
+
+N                                    3.63471200        1.39385500      -0.07536100 
+
+N                                  -3.63467400      -1.39385400      -0.07529300 
+S11 
+
+ 
+
+N                                  -3.63479400        1.39374900      -0.07593500 
+
+N                                    2.38544000      -3.53545800      -0.61240800 
+
+B                                    3.72870100      -2.99402300      -0.17492600 
+
+F                                    4.08440400      -3.47666300        1.08111200 
+
+F                                    4.69755900      -3.31333300      -1.11948900 
+
+C                                    2.38532300      -4.96571500      -0.91276700 
+
+H                                    1.94597900      -5.55403400      -0.09767600 
+
+H                                    1.82921700      -5.16953000      -1.83408900 
+
+H                                    3.41673100      -5.28057600      -1.05983700 
+
+H                                  -0.00006200        4.59600000      -0.77285100 
+
+N                                    2.38532900        3.53569200      -0.61128300 
+
+B                                    3.72844800        2.99420200      -0.17342000 
+
+C                                    2.38520700        4.96599100      -0.91143200 
+
+H                                    1.82931300        5.16991100      -1.83285700 
+
+H                                    1.94563200        5.55417000      -0.09636300 
+
+H                                    3.41663800        5.28091700      -1.05819900 
+
+F                                    4.08353400        3.47606100        1.08307500 
+
+F                                    4.69767100        3.31427900      -1.11737700 
+
+C                                    8.42075000        1.40963800        0.97757900 
+
+H                                    8.41507200        2.49561600        0.97685900 
+
+C                                    9.57149900        0.71270800        1.23908400 
+
+H                                  10.49420100        1.24495700        1.44915600 
+
+C                                    8.42080600      -1.40968200        0.97710900 
+
+H                                    8.41517100      -2.49566100        0.97602300 
+
+C                                    9.57152700      -0.71279400        1.23884700 
+
+H                                  10.49425100      -1.24507700        1.44873800 
+
+C                                  -8.42083100        1.40961300        0.97703700 
+
+H                                  -8.41526300        2.49559300        0.97572800 
+
+C                                  -9.57150100        0.71271100        1.23896600 
+
+H                                -10.49424800        1.24498400        1.44878200 
+
+C                                  -8.42060600      -1.40970500        0.97810000 
+
+H                                  -8.41486400      -2.49568400        0.97760300 
+
+C                                  -9.57138700      -0.71279000        1.23950800 
+
+H                                -10.49404700      -1.24505100        1.44973100 
+
+N                                  -2.38546100        3.53543100      -0.61267200 
+
+N                                  -2.38535000      -3.53563400      -0.61151800 
+
+C                                  -2.38533700        4.96570500      -0.91295200 
+
+H                                  -1.94628300        5.55401400      -0.09769800 
+
+S12 
+
+ 
+
+H                                  -1.82898200        5.16960500      -1.83410100 
+
+H                                  -3.41673400        5.28048600      -1.06028800 
+
+C                                  -2.38525000      -4.96593300      -0.91166800 
+
+H                                  -1.82949800      -5.16985600      -1.83317900 
+
+H                                  -1.94554200      -5.55410200      -0.09666500 
+
+H                                  -3.41669600      -5.28088300      -1.05828000 
+
+F                                  -4.08437300        3.47682300        1.08085100 
+
+F                                  -4.69759800        3.31324600      -1.11971100 
+
+F                                  -4.08377900      -3.47637400        1.08256500 
+
+F                                  -4.69763600      -3.31391900      -1.11789700 
+
+B                                  -3.72873200        2.99404100      -0.17515700 
+
+B                                  -3.72850000      -2.99416700      -0.17375600 
+
+S13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Absorption spectra 
+
+Figure S5. UV/Vis absorption spectra of a) 5a and b) 5b in various solutions. 
+
+Figure  S6.  UV/Vis  absorption  spectra  of  5a  and  5b in  thin  films.  The  films  show  the  broad  and 
+
+red-shifted absorptions with the λabs of ca. 785 nm for them. 
+
+S14 
+
+ 
+
+ 
+
+ 
+
+Figure  S7.  UV/Vis  absorption  spectra  of  a)  5a  and  b)  5b  in  toluene  with  the  solutions  left  at 
+
+ambient conditions. No change of the spectra suggests that 5a and 5b are very stable toward air and 
+
+moisture. 
+
+S15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Theoretical calculations 
+
+Density  functional  theory  (DFT)  calculations  at  the  B3LYP/6-31G(d,p)  level  of  theory  were 
+
+performed on 5a-Me, 5b-Me, 5a-CC and 5b-CC. To assign the absorption bands observed in the 
+
+UV/Vis  spectra  of  5a  and  5b,  time-dependent  DFT  calculations  were  performed  on  5a-Me  and 
+
+5b-Me using Gaussian 09 program at the B3LYP/6-31G(d,p) level of theory.   
+
+Figure  S8.  The  molecular  orbitals,  energy  levels,  excitation  energies  and  oscillator  strengths  of 
+
+5a-Me, based on the TD-DFT (B3LYP/6-31G(d,p)) calculation. 
+
+S16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure  S9.  The  molecular  orbitals,  energy  levels,  excitation  energies  and  oscillator  strengths  of 
+
+5b-Me, based on the TD-DFT (B3LYP/6-31G(d,p)) calculation. 
+
+Figure S10. The molecular orbitals and energy levels of 5a-Me, 5b-Me, 5a-CC and 5b-CC, based 
+
+on the DFT (B3LYP/6-31G(d,p)) calculation.   
+
+S17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure  S11.  The  experimental  ELUMO  and  EHOMO  accompanying  with  the  theoretical  values  of 
+
+DBNA, 5a and QBNA.   
+
+Figure  S12.  Electrostatic  potential  surface  (EPS)  maps  at  the  0.0004  electron  density  of  5a-Me, 
+
+5b-Me, 5a-CC and 5b-CC.   
+
+        After replacing the C−C bonds by the B←N units, the electronic energy levels of conjugated 
+
+polyarenes,  especially  the  LUMO  levels,  are  significantly  decreased.  Moreover,  while  the 
+
+π-frameworks  in  5a-CC  and  5b-CC  are  electronically  negative,  the  π-frameworks  in  5a-Me  and 
+
+5b-Me  are  electronically  positive.  These  results  demonstrate  the  electron-withdrawing  B←N  unit 
+
+can significantly enhance the electron affinity of π-systems. 
+
+S18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure  S13.  Chemical  structures  and  LUMO  energy  levels  of  chlorinated  aromatic  diimides 
+
+(C12-4CldiPBI 
+
+and  Cl2-NDI),2,3 
+
+chlorinated 
+
+tetraazapentacene 
+
+(4Cl-TAP),4 
+
+fluorinated 
+
+benzodifurandione-based  oligo(p-phenylenevinylene)  (F4-BDOPV),5  cyano-containing  quinoidal 
+
+terthiophenes (2DQTT-o-B)6 and QBNA. 
+
+        To further demonstrate the high electron affinity of QBNA, we compare its LUMO level with 
+
+those  of  the  reported  high-performance  n-type  organic  semiconductors.  The  experimental  LUMO 
+
+levels are calculated based on ELUMO = –(4.80 + E1/2
+
+red1) eV. As shown in Figure S13, the ELUMO of 
+
+these  n-type  organic  semiconductors  are  ca.  −4.2~−4.5  eV,  which  are  quite  comparable  to  that 
+
+(−4.58  eV)  of  QBNA.  These  comparisons  clearly  verify  the  extremely  high  electron  affinity  of 
+
+quadruply B←N-fused dibenzo-azaacene. 
+
+S19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7. SC-OFET device fabrications and characterizations 
+
+        Single-crystal organic field-effect transistors (SC-OFETs) were fabricated with a bottom-gate/ 
+
+top-contact  (BGTC)  configuration.  The  substrates  with  silicon  wafer  covered  with  300  nm  SiO2 
+
+were  cleaned  with  double-distilled  water,  piranha  solution  (H2SO4:H2O2  =  7:3),  double-distilled 
+
+water,  and  isopropanol  and  then  dried  under  a  high-purity  nitrogen  flow.  The  modification  of 
+
+SiO2/Si  wafers  was  carried  out  using  octadecyltrichlorosilane  (OTS)  with  the  vapor-deposition 
+
+method:  the  cleaned  wafers  were  cleaned  with  oxygen  plasma  (10  min,  100W),  then  were  dried 
+
+under vacuum at 90 °C for 1.5 h. After decreasing the temperature to 60 °C, a small drop of OTS 
+
+was dropped onto the SiO2/Si wafers. This system was then heated at 120 °C for 2 h under vacuum. 
+
+The OTS modified SiO2/Si wafers were cleaned with n-hexane, chloroform and isopropyl alcohol, 
+
+and finally were dried with high-purity nitrogen flow.   
+
+        Single-crystal  microwires  of  QBNA  were  prepared  in  typical  growth  conditions  through 
+
+drop-casting of its toluene solution (1 mg/mL) onto the OTS modified SiO2/Si substrates in a sealed 
+
+bottle  at  25  °C.  Single-crystal  microwires  gradually  appeared  on  the  substrates  with  the  solution 
+
+evaporation. Then the SC-OFET devices were fabricated with the organic ribbon mask method. An 
+
+individual  micrometer  organic  nanowire  made  in  advance  was  first  put  on  a  microwire 
+
+perpendicularly  to  the  growth  direction  under  a  high-resolution  microscopy  (magnification  at 
+
+x400−1000). A layer of 20 nm Au was then deposited on the masked microwire as the source and 
+
+drain electrodes. Finally, the organic nanowires were removed and a device with two electrodes was 
+
+obtained.  All  electrical  characteristics  of  the  devices  were  measured  at  room  temperature  in  air 
+
+using a semiconductor parameter analyser (Keithley 4200 SCS) and a micromanipulator 6150 probe 
+
+station.  The  mobility  was  extracted  from  the  saturation  region  by  using  the  equation  of  IDS  = 
+
+(W/2L)Ciμ(VG−VT)2,  where  IDS  is  the  drain-source  current,  μ  is  the  field-effect  mobility,  Ci  is  the 
+
+capacitance per unit area of the gate dielectric layer,  VG and VT are the gate voltage and threshold 
+
+voltage, L and W are the channel length and width basing on an individual microwire in SC-OFET 
+
+devices, respectively. 
+
+S20 
+
+ 
+
+Figure S14. a−c) Optical microscopy, SEM and AFM images of the single-crystal microwires and d) 
+
+X-ray diffraction pattern of the microwires of 5b. 
+
+Figure S15. Output curves of the SC-OFET device based on 5b.   
+
+S21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure S16. The electron mobility distribution of twenty SC-OFET devices based on 5b. 
+
+Figure S17. Transfer and output curves of the SC-OFET device based on the microwires from the 
+
+solution of 5b in o-xylene. 
+
+        We  have  optimized  the  device  fabrication  conditions  of  5b.  The  solutions  of  5b  in  toluene, 
+
+o-xylene,  CHCl3  and  chlorobenzene  were  used  to  grow  its  micrometer-sized  single  crystals.  We 
+
+could  obtain  some  single-crystal  microwires  that  are  suitable  for  SC-OFETs  from  its  toluene  and 
+
+o-xylene solutions. As shown in Figure S15, the SC-OFET device based on the microwires from the 
+
+solution of 5b in o-xylene exhibits the unipolar n-type behavior with an electron mobility of 1.25 
+
+cm2 V–1 s–1, an on/off current ratio of 105−106 and a threshold voltage of 21 V. 
+
+S22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8. 1H NMR and 13C NMR spectra 
+
+Figure S18. 1H NMR spectrum of 2 in d-DMSO. 
+
+Figure S19. 13C NMR spectrum of 2 in d-DMSO. 
+
+S23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure S20. 1H NMR spectrum of 4a in C6D6. 
+
+Figure S21. 13C NMR spectrum of 4a in C6D6. 
+
+S24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure S22. 1H NMR spectrum of 4b in C6D6. 
+
+Figure S23. 13C NMR spectrum of 4b in C6D6. 
+
+S25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure S24. 1H NMR spectrum of 5a in CDCl3. 
+
+Figure S25. 13C NMR spectrum of 5a in CDCl3. 
+
+S26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure S26. 1H NMR spectrum of 5b in CDCl3. 
+
+Figure S27. 13C NMR spectrum of 5b in CDCl3. 
+
+S27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9. Reference 
+
+(1)  Gaussian  09  (Revision  A.02),  Frisch,  M.  J.;  Trucks,  G.  W.;  Schlegel,  H.  B.;  Scuseria,  G.E.; 
+
+Robb,  M.  A.;  Cheeseman,  J.  R.;  Scalmani,  G.;  Barone,  V.;  Mennucci,  B.;  Petersson,  G.  A.; 
+
+Nakatsuji,  H.;  Caricato,  M.;  Li,  X.;  Hratchian,  H.  P.;  Izmaylov,  A.  F.;  Bloino,  J.;  Zheng,  G.; 
+
+Sonnenberg,  J.  L.;  Hada,  M.;  Ehara,  M.;  Toyota,  K.;  Fukuda,  R.;  Hasegawa,  J.;  Ishida,  M.; 
+
+Nakajima, T.; Honda, Y.; Kitao, O.; Nakai, H.; Vreven, T.; Montgomery, Jr., J. A.; Peralta, J. E.; 
+
+Ogliaro, F.; Bearpark, M.; Heyd, J. J.; Brothers, E.; Kudin, K. N.;Staroverov, V. N.; Kobayashi, R.; 
+
+Normand,  J.;  Raghavachari,  K.;  Rendell,  A.;  Burant,  J.  C.;  Iyengar,  S.  S.;  Tomasi,  J.;  Cossi,  M.; 
+
+Rega, N.; Millam, J. M.; Klene, M.; Knox, J. E.; Cross, J. B.; Bakken, V.; Adamo, C.; Jaramillo, J.; 
+
+Gomperts, R.; Stratmann, R. E.; Yazyev, O.; Austin, A. J.; Cammi, R.; Pomelli, C.; Ochterski, J. W.; 
+
+Martin,  R.  L.;  Morokuma,  K.;  Zakrzewski,  V.  G.;  Voth,  G.  A.;  Salvador,  P.;  Dannenberg,  J.  J.; 
+
+Dapprich,S.;  Daniels,  A.  D.;  Farkas,  O.;  Foresman,  J.  B.;  Ortiz,  J.  V.;  Cioslowski,  J.;  Fox,  D.  J. 
+
+Gaussian, Inc., Wallingford CT, 2009. 
+
+(2) Lv, A.; Puniredd, S. R.; Zhang, J.; Li, Z.; Zhu, H.; Jiang, W.; Dong, H.; He, Y.; Jiang, L.; Li, Y.; 
+
+Pisula, W.; Meng, Q.; Hu, W.; Wang, Z. Adv. Mater. 2012, 24, 2626−2630. 
+
+(3) Oh, J. H.; Suraru, S.-L.;  Lee, W.-Y.;  Könemann, M.; Höffken, H. W.; Röger, C.;  Schmidt, R.; 
+
+Chung, Y.; Chen, W.-C.; Wüthner, F.; Bao, Z. Adv. Funct. Mater. 2010, 20, 2148−2156. 
+
+(4) Chu, M.; Fan, J.-X.; Yang, S.; Liu, D.; Ng, C. F.; Dong, H.; Ren, A.-M.; Miao, Q. Adv. Mater. 
+
+2018, 30, 1803467. 
+
+(5)  Dou,  J.-H.;  Zheng,  Y.-Q.;  Yao,  Z.-F.  Yu,  Z.-A.;  Lei,  T.;  Shen,  X.;  Luo,  X.-Y.;  Sun, J.;  Zhang, 
+
+S.-D.; Ding, Y.-F.; Han, G.; Yi, Y.; Wang, J.-Y.; Pei, J. J. Am. Chem. Soc. 2015, 137, 15947−15956. 
+
+(6) Zhang, C.; Zang, Y.; Zhang, F.; Diao, Y.; McNeill, C. R.; Di, C.-A.; Zhu, X.; Zhu, D. Adv. Mater. 
+
+2016, 28, 8456−8462. 
+
+S28 
+
+ 
+
+ 
