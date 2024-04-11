@@ -81,5 +81,6 @@ You can try our model in [Online-Demo site](https://ofet-v1.streamlit.app/). It 
 
 <img src="\demo.jpg" alt="demo" style="zoom: 25%;" />
 
+For OFET lab advisor, you can try [our OFET Assistant GPTs](https://chat.openai.com/g/g-Jv101Kxt6-ofet-assistant)
 
 
