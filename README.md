@@ -79,7 +79,7 @@ python 1_train_models.py
 
 You can try our model in [Online-Demo site](https://ofet-v1.streamlit.app/). It requires an OpenAI key (For more information, visit the OpenAI site). In online demo, information extractor, performance predictor and lab advisor are available.
 
-<img src="\demo.jpg" alt="demo" style="zoom: 25%;" />
+<img src="\DEMO.jpg" alt="demo" style="zoom: 25%;" />
 
 For OFET lab advisor, you can try [our OFET Assistant GPTs](https://chat.openai.com/g/g-Jv101Kxt6-ofet-assistant)
 
