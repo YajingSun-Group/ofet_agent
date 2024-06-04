@@ -83,4 +83,7 @@ You can try our model in [Online-Demo site](https://ofet-v1.streamlit.app/). It 
 
 For OFET lab advisor, you can try [our OFET Assistant GPTs](https://chat.openai.com/g/g-Jv101Kxt6-ofet-assistant)
 
-
+## Acknowledgments
+- [ChatGPT_Chemistry_Assistant](https://github.com/zach-zhiling-zheng/ChatGPT_Chemistry_Assistant)
+- [DECIMER](https://github.com/Kohulan/DECIMER-Image_Transformer)
+- [Streamlit + LLM Examples App](https://github.com/streamlit/llm-examples/tree/main)
