@@ -309,7 +309,7 @@ OFET文献：
         return answers   
     
 if __name__ == '__main__':
-    api_key = 'sk-syc0O7aRswVlTFJAQVaEJhGqI2TxLP2Tad64g2DNJuJpB0aX'
+    api_key = ''
     # r = use_gpt_4v("../1_table_page_7.jpg",api_key=api_key)
     input_information = open('../pdfs/JACS/pdf/summary/1_article_SI_table.txt', 'r',encoding='utf-8').read()
     r = use_gpt_4(api_key=api_key,input_information=input_information)
