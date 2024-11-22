@@ -27,7 +27,7 @@ habanero = 1.2.3
 tiktoken  
 PyMuPDF
 pdf2image
-pdfminer
+pdfminer.six
 pandas
 numpy
 ```
