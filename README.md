@@ -87,3 +87,7 @@ For OFET lab advisor, you can try [our OFET Assistant GPTs](https://chat.openai.
 - [ChatGPT_Chemistry_Assistant](https://github.com/zach-zhiling-zheng/ChatGPT_Chemistry_Assistant)
 - [DECIMER](https://github.com/Kohulan/DECIMER-Image_Transformer)
 - [Streamlit + LLM Examples App](https://github.com/streamlit/llm-examples/tree/main)
+
+## License
+
+Original code in this repository may be used, copied, and modified for non-commercial academic research, teaching, and reproducibility. Commercial use requires prior written permission from the copyright holder. Third-party materials remain subject to their own licenses. See [LICENSE](LICENSE).
